@@ -1,0 +1,19 @@
+body{
+  padding-top: 70px;
+  background-color: #9e3f3f;
+  color: white;
+  font-family: Monospace;
+}
+h3{
+  display: inline;
+}
+#focus{
+  background-color: white;
+  opacity: 0.5;
+  color:black;
+}
+
+#start{
+  margin:10px;
+ 
+}
